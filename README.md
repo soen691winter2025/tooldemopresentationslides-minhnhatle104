@@ -15,4 +15,7 @@ AutoCodeRover - Autonomous Program Improvement
 
 - Powerpoint: `Tool-Demo-Presentation-AutoCodeRover.pptx`
 - PDF: `Tool-Demo-Presentation-AutoCodeRover.pdf`
-- If you want to see images, please refer this file `images/AutoCodeRover_Experiment.pdf`
+- If you want to see images, please refer these 2 files:
+
+1. `images/AutoCodeRover_Experiment.pdf`
+2. `images/AutoCodeRover_Experiment.pptx`
